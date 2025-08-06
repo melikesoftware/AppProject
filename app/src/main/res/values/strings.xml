@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjectHomework</string>
+    <string name="title_activity_maps">MapsActivity</string>
+   <string-array name="Places">
+       <item>Cafe</item>
+       <item>Restaurant</item>
+       <item>Park</item>
+       <item>Museum</item>
+       <item>Shopping Mall</item>
+       <item>Historical Site</item>
+       <item>Other</item>
+   </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

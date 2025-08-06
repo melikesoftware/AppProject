@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".log.Explore">
+
+    <ImageView
+        android:id="@+id/search"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background"
+
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></ImageView>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="419dp"
+        android:layout_height="806dp"
+
+        android:layout_marginStart="7dp"
+        android:layout_marginEnd="7dp"
+        android:background="#AAFFFFFF"
+        android:orientation="vertical"
+        android:padding="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/search">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="sans-serif-medium"
+            android:paddingBottom="16dp"
+            android:text="Explore Map"
+            android:textColor="@color/design_default_color_secondary_variant"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="40dp"
+            android:layout_height="36dp"
+
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/sign_out" />
+
+
+        <TextView
+            android:id="@+id/textview8"
+            android:layout_width="21dp"
+            android:layout_height="22dp"
+            app:layout_constraintTop_toTopOf="@+id/imageView3"></TextView>
+
+        <EditText
+            android:id="@+id/editTextText7"
+            android:layout_width="294dp"
+            android:layout_height="56dp"
+            android:layout_margin="20dp"
+            android:ems="10"
+            android:hint="City"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editTextText8"
+            android:layout_width="294dp"
+            android:layout_height="56dp"
+            android:layout_margin="15dp"
+            android:ems="10"
+            android:hint="Town"
+            android:inputType="text" />
+
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="294dp"
+            android:layout_height="56dp"
+            android:layout_margin="20dp"
+            android:ems="10" />
+
+        <EditText
+            android:id="@+id/editTextText11"
+            android:layout_width="294dp"
+            android:layout_height="56dp"
+            android:layout_margin="15dp"
+            android:ems="10"
+            android:hint="Keyword1"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editTextText12"
+            android:layout_width="294dp"
+            android:layout_height="56dp"
+            android:layout_margin="15dp"
+            android:ems="10"
+            android:hint="Keyword2"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editTextText13"
+            android:layout_width="294dp"
+            android:layout_height="56dp"
+            android:layout_margin="15dp"
+            android:ems="10"
+            android:hint="Keyword3"
+            android:inputType="text" />
+
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:backgroundTint="#F06292"
+            android:onClick="explore"
+            android:text="Explore places"
+            android:textColor="#FFF" />
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

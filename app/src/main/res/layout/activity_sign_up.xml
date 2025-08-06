@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".log.Sign_up">
+
+    <ImageView
+        android:id="@+id/log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/gri"
+       ></ImageView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_margin="24dp"
+          android:background="#AAFFFFFF"
+          android:elevation="8dp"
+          android:orientation="vertical"
+          android:padding="20dp">
+
+
+
+    <EditText
+        android:id="@+id/editTextText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:ems="10"
+        android:background="@android:drawable/edit_text"
+        android:hint="Enter name"
+        android:inputType="text"
+       android:padding="20dp" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@android:drawable/edit_text"
+        android:hint="Enter surname"
+        android:inputType="text"
+        android:padding="20dp" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@android:drawable/edit_text"
+        android:hint="Enter phone number"
+        android:inputType="text"
+        android:padding="20dp"
+         />
+
+    <EditText
+        android:id="@+id/editTextText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:hint="Enter birthday"
+        android:inputType="text"
+        android:background="@android:drawable/edit_text"
+        android:padding="20dp" />
+
+
+
+          <EditText
+        android:id="@+id/editTextText6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="20dp"
+
+        android:hint="Enter email"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/editTextNumberPassword3"
+        app:layout_constraintEnd_toEndOf="parent"
+              android:background="@android:drawable/edit_text"
+              android:padding="20dp" />
+
+    <EditText
+        android:id="@+id/editTextNumberPassword3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="20dp"
+        android:hint="Enter password"
+        android:inputType="numberPassword"
+        android:background="@android:drawable/edit_text"
+        android:padding="20dp"
+         />
+          <CheckBox
+          android:id="@+id/checkBoxRemember"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="20dp"
+          android:text="Kullanım Koşullarını kabul ediyorum"
+          android:background="@android:drawable/edit_text"
+          android:padding="20dp"
+
+          />
+
+          <Button
+              android:id="@+id/button3"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="20dp"
+              android:backgroundTint="#F06292"
+
+              android:text="Sign Up"
+              android:textColor="#FFF" />
+
+      </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

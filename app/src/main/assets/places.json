@@ -1,0 +1,1554 @@
+[
+  {
+    "name": "Bakırköy Mekan 1",
+    "description": "Rahat ortam, modern mevcut.",
+    "rating": 4.7,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "popüler",
+      "sigara alanı",
+      "tatlı"
+    ],
+    "latitude": 41.050024,
+    "longitude": 29.016449
+  },
+  {
+    "name": "Bakırköy Mekan 2",
+    "description": "Tatlı ortam, uygun fiyat mevcut.",
+    "rating": 4.5,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "modern",
+      "kahve",
+      "kahvaltı"
+    ],
+    "latitude": 41.01402,
+    "longitude": 28.958343
+  },
+
+  {
+    "name": "Kadıköy Mekan 3",
+    "description": "Wifi ortam, tercih edilen mevcut.",
+    "rating": 4.2,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "sessiz",
+      "popüler",
+      "wifi"
+    ],
+    "latitude": 41.079756,
+    "longitude": 28.903929
+  },
+  {
+    "name": "Şişli Mekan 4",
+    "description": "Tercih edilen ortam, popüler mevcut.",
+    "rating": 4.2,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "tarihi",
+      "kahvaltı",
+      "güzel müzik"
+    ],
+    "latitude": 40.954057,
+    "longitude": 29.011158
+  },
+  {
+    "name": "Sarıyer Mekan 5",
+    "description": "Gölge ortam, gizli mevcut.",
+    "rating": 4.5,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "gölge",
+      "sessiz",
+      "popüler"
+    ],
+    "latitude": 41.080459,
+    "longitude": 29.066971
+  },
+  {
+    "name": "Şişli Mekan 6",
+    "description": "Sessiz ortam, gölge mevcut.",
+    "rating": 3.9,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "kahve",
+      "rahat",
+      "uygun fiyat"
+    ],
+    "latitude": 41.039706,
+    "longitude": 29.061468
+  },
+  {
+    "name": "Sarıyer Mekan 7",
+    "description": "Popüler ortam, klasik mevcut.",
+    "rating": 4.5,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "rahat",
+      "tercih edilen",
+      "uygun fiyat"
+    ],
+    "latitude": 41.026808,
+    "longitude": 29.014062
+  },
+  {
+    "name": "Sarıyer Mekan 8",
+    "description": "Wifi ortam, güzel müzik mevcut.",
+    "rating": 3.7,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "modern",
+      "gölge",
+      "klasik"
+    ],
+    "latitude": 40.937303,
+    "longitude": 29.066558
+  },
+  {
+    "name": "Beyoğlu Mekan 9",
+    "description": "Kahve ortam, popüler mevcut.",
+    "rating": 4.0,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "wifi",
+      "tarihi",
+      "popüler"
+    ],
+    "latitude": 41.076903,
+    "longitude": 29.096334
+  },
+  {
+    "name": "Sarıyer Mekan 10",
+    "description": "Deniz kenarı ortam, sigara alanı mevcut.",
+    "rating": 4.4,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "klasik",
+      "güzel müzik",
+      "kahvaltı"
+    ],
+    "latitude": 40.924388,
+    "longitude": 28.912529
+  },
+  {
+    "name": "Beyoğlu Mekan 11",
+    "description": "Popüler ortam, sessiz mevcut.",
+    "rating": 4.1,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "gölge",
+      "klasik",
+      "tatlı"
+    ],
+    "latitude": 41.051615,
+    "longitude": 29.079993
+  },
+  {
+    "name": "Üsküdar Mekan 12",
+    "description": "Rahat ortam, popüler mevcut.",
+    "rating": 4.2,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "uygun fiyat",
+      "tercih edilen",
+      "güzel müzik"
+    ],
+    "latitude": 41.031134,
+    "longitude": 29.052373
+  },
+  {
+    "name": "Bakırköy Mekan 13",
+    "description": "Rahat ortam, tatlı mevcut.",
+    "rating": 3.6,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "sessiz",
+      "kahvaltı",
+      "popüler"
+    ],
+    "latitude": 41.074108,
+    "longitude": 29.031577
+  },
+  {
+    "name": "Fatih Mekan 14",
+    "description": "Uygun fiyat ortam, gizli mevcut.",
+    "rating": 4.9,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "deniz kenarı",
+      "rahat",
+      "popüler"
+    ],
+    "latitude": 41.011871,
+    "longitude": 28.908121
+  },
+  {
+    "name": "Beşiktaş Mekan 15",
+    "description": "Wifi ortam, deniz kenarı mevcut.",
+    "rating": 4.2,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "güzel müzik",
+      "sessiz",
+      "tatlı"
+    ],
+    "latitude": 41.023431,
+    "longitude": 28.941781
+  },
+  {
+    "name": "Kadıköy Mekan 16",
+    "description": "Popüler ortam, rahat mevcut.",
+    "rating": 4.2,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "wifi",
+      "kahve",
+      "sigara alanı"
+    ],
+    "latitude": 41.028209,
+    "longitude": 28.982871
+  },
+  {
+    "name": "Şişli Mekan 17",
+    "description": "Kahve ortam, sigara alanı mevcut.",
+    "rating": 4.8,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "sessiz",
+      "manzara",
+      "tercih edilen"
+    ],
+    "latitude": 41.074313,
+    "longitude": 29.068037
+  },
+  {
+    "name": "Sarıyer Mekan 18",
+    "description": "Gölge ortam, popüler mevcut.",
+    "rating": 3.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "wifi",
+      "klasik",
+      "kahve"
+    ],
+    "latitude": 40.953722,
+    "longitude": 28.931951
+  },
+  {
+    "name": "Şişli Mekan 19",
+    "description": "Uygun fiyat ortam, manzara mevcut.",
+    "rating": 3.9,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "tarihi",
+      "kahve",
+      "kahvaltı"
+    ],
+    "latitude": 40.933575,
+    "longitude": 28.979302
+  },
+  {
+    "name": "Fatih Mekan 20",
+    "description": "Kahve ortam, sigara alanı mevcut.",
+    "rating": 3.7,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "manzara",
+      "deniz kenarı",
+      "klasik"
+    ],
+    "latitude": 41.054244,
+    "longitude": 29.034286
+  },
+  {
+    "name": "Bakırköy Mekan 21",
+    "description": "Deniz kenarı ortam, manzara mevcut.",
+    "rating": 4.4,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "sigara alanı",
+      "sessiz",
+      "wifi"
+    ],
+    "latitude": 41.067519,
+    "longitude": 29.059646
+  },
+  {
+    "name": "Üsküdar Mekan 22",
+    "description": "Sessiz ortam, tatlı mevcut.",
+    "rating": 4.8,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "tercih edilen",
+      "wifi",
+      "kahve"
+    ],
+    "latitude": 41.062234,
+    "longitude": 29.090143
+  },
+  {
+    "name": "Kadıköy Mekan 23",
+    "description": "Wifi ortam, sigara alanı mevcut.",
+    "rating": 4.5,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "kahvaltı",
+      "sigara alanı",
+      "modern"
+    ],
+    "latitude": 40.917054,
+    "longitude": 29.05982
+  },
+  {
+    "name": "Beşiktaş Mekan 24",
+    "description": "Gölge ortam, popüler mevcut.",
+    "rating": 4.4,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "modern",
+      "tercih edilen",
+      "tarihi"
+    ],
+    "latitude": 41.006971,
+    "longitude": 29.000683
+  },
+  {
+    "name": "Beyoğlu Mekan 25",
+    "description": "Tarihi ortam, gölge mevcut.",
+    "rating": 3.5,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "tatlı",
+      "kahve",
+      "klasik"
+    ],
+    "latitude": 40.923859,
+    "longitude": 29.067891
+  },
+  {
+    "name": "Sarıyer Mekan 26",
+    "description": "Uygun fiyat ortam, tercih edilen mevcut.",
+    "rating": 4.9,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "gölge",
+      "sessiz",
+      "tercih edilen"
+    ],
+    "latitude": 41.099486,
+    "longitude": 29.099904
+  },
+  {
+    "name": "Şişli Mekan 27",
+    "description": "Klasik ortam, wifi mevcut.",
+    "rating": 4.6,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "kahve",
+      "sessiz",
+      "tatlı"
+    ],
+    "latitude": 41.099247,
+    "longitude": 28.997763
+  },
+  {
+    "name": "Beşiktaş Mekan 28",
+    "description": "Tercih edilen ortam, popüler mevcut.",
+    "rating": 3.9,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "tatlı",
+      "gizli",
+      "sigara alanı"
+    ],
+    "latitude": 40.901662,
+    "longitude": 28.999595
+  },
+  {
+    "name": "Şişli Mekan 29",
+    "description": "Manzara ortam, tercih edilen mevcut.",
+    "rating": 3.7,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "güzel müzik",
+      "tatlı",
+      "kahve"
+    ],
+    "latitude": 40.943578,
+    "longitude": 28.932697
+  },
+  {
+    "name": "Şişli Mekan 30",
+    "description": "Rahat ortam, tatlı mevcut.",
+    "rating": 4.4,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "klasik",
+      "kahvaltı",
+      "sessiz"
+    ],
+    "latitude": 40.982151,
+    "longitude": 29.097323
+  },
+  {
+    "name": "Beyoğlu Mekan 31",
+    "description": "Kahve ortam, tatlı mevcut.",
+    "rating": 3.9,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "tatlı",
+      "wifi",
+      "popüler"
+    ],
+    "latitude": 40.977289,
+    "longitude": 28.993485
+  },
+  {
+    "name": "Üsküdar Mekan 32",
+    "description": "Gölge ortam, güzel müzik mevcut.",
+    "rating": 4.2,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "kahve",
+      "gölge",
+      "modern"
+    ],
+    "latitude": 41.07726,
+    "longitude": 29.078241
+  },
+  {
+    "name": "Kadıköy Mekan 33",
+    "description": "Wifi ortam, gizli mevcut.",
+    "rating": 4.9,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "deniz kenarı",
+      "tercih edilen",
+      "popüler"
+    ],
+    "latitude": 40.907304,
+    "longitude": 28.95841
+  },
+  {
+    "name": "Fatih Mekan 34",
+    "description": "Rahat ortam, klasik mevcut.",
+    "rating": 4.7,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "tatlı",
+      "wifi",
+      "tarihi"
+    ],
+    "latitude": 40.934278,
+    "longitude": 29.09185
+  },
+  {
+    "name": "Sarıyer Mekan 35",
+    "description": "Sigara alanı ortam, kahvaltı mevcut.",
+    "rating": 4.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "tarihi",
+      "klasik",
+      "wifi"
+    ],
+    "latitude": 40.913771,
+    "longitude": 28.976181
+  },
+  {
+    "name": "Kadıköy Mekan 36",
+    "description": "Manzara ortam, kahve mevcut.",
+    "rating": 3.7,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "popüler",
+      "güzel müzik",
+      "sigara alanı"
+    ],
+    "latitude": 40.925664,
+    "longitude": 28.988595
+  },
+  {
+    "name": "Bakırköy Mekan 37",
+    "description": "Tercih edilen ortam, wifi mevcut.",
+    "rating": 3.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "manzara",
+      "sessiz",
+      "tarihi"
+    ],
+    "latitude": 40.902471,
+    "longitude": 29.007705
+  },
+  {
+    "name": "Kadıköy Mekan 38",
+    "description": "Gizli ortam, tatlı mevcut.",
+    "rating": 3.9,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "kahve",
+      "güzel müzik",
+      "sigara alanı"
+    ],
+    "latitude": 41.079444,
+    "longitude": 29.004101
+  },
+  {
+    "name": "Üsküdar Mekan 39",
+    "description": "Klasik ortam, kahve mevcut.",
+    "rating": 4.4,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "tarihi",
+      "modern",
+      "tatlı"
+    ],
+    "latitude": 41.014327,
+    "longitude": 29.024312
+  },
+  {
+    "name": "Fatih Mekan 40",
+    "description": "Sessiz ortam, klasik mevcut.",
+    "rating": 3.9,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "wifi",
+      "deniz kenarı",
+      "güzel müzik"
+    ],
+    "latitude": 40.93353,
+    "longitude": 28.942259
+  },
+  {
+    "name": "Şişli Mekan 41",
+    "description": "Tatlı ortam, tarihi mevcut.",
+    "rating": 4.8,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "tarihi",
+      "kahve",
+      "manzara"
+    ],
+    "latitude": 41.032828,
+    "longitude": 29.087068
+  },
+  {
+    "name": "Bakırköy Mekan 42",
+    "description": "Popüler ortam, tarihi mevcut.",
+    "rating": 3.6,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "tatlı",
+      "sessiz",
+      "sigara alanı"
+    ],
+    "latitude": 40.964044,
+    "longitude": 29.071132
+  },
+  {
+    "name": "Şişli Mekan 43",
+    "description": "Sigara alanı ortam, popüler mevcut.",
+    "rating": 4.8,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "gölge",
+      "tatlı",
+      "kahvaltı"
+    ],
+    "latitude": 41.004783,
+    "longitude": 29.082644
+  },
+  {
+    "name": "Fatih Mekan 44",
+    "description": "Tarihi ortam, rahat mevcut.",
+    "rating": 5.0,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "kahve",
+      "popüler",
+      "tercih edilen"
+    ],
+    "latitude": 41.018674,
+    "longitude": 28.995536
+  },
+  {
+    "name": "Üsküdar Mekan 45",
+    "description": "Uygun fiyat ortam, klasik mevcut.",
+    "rating": 4.4,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "tarihi",
+      "deniz kenarı",
+      "kahve"
+    ],
+    "latitude": 40.959261,
+    "longitude": 28.995616
+  },
+  {
+    "name": "Üsküdar Mekan 46",
+    "description": "Güzel müzik ortam, rahat mevcut.",
+    "rating": 5.0,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "kahve",
+      "güzel müzik",
+      "uygun fiyat"
+    ],
+    "latitude": 41.028974,
+    "longitude": 29.056989
+  },
+  {
+    "name": "Üsküdar Mekan 47",
+    "description": "Wifi ortam, popüler mevcut.",
+    "rating": 4.5,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "wifi",
+      "güzel müzik",
+      "gölge"
+    ],
+    "latitude": 41.011863,
+    "longitude": 28.924709
+  },
+  {
+    "name": "Şişli Mekan 48",
+    "description": "Modern ortam, popüler mevcut.",
+    "rating": 4.4,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "tatlı",
+      "tercih edilen",
+      "modern"
+    ],
+    "latitude": 40.929953,
+    "longitude": 28.902093
+  },
+  {
+    "name": "Fatih Mekan 49",
+    "description": "Gizli ortam, uygun fiyat mevcut.",
+    "rating": 4.1,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "modern",
+      "deniz kenarı",
+      "tatlı"
+    ],
+    "latitude": 41.097602,
+    "longitude": 29.052953
+  },
+  {
+    "name": "Bakırköy Mekan 50",
+    "description": "Rahat ortam, tercih edilen mevcut.",
+    "rating": 4.9,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "gizli",
+      "tarihi",
+      "modern"
+    ],
+    "latitude": 40.985131,
+    "longitude": 28.975067
+  },
+  {
+    "name": "Fatih Mekan 51",
+    "description": "Klasik ortam, tarihi mevcut.",
+    "rating": 4.3,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "modern",
+      "uygun fiyat",
+      "deniz kenarı"
+    ],
+    "latitude": 41.052375,
+    "longitude": 28.9456
+  },
+  {
+    "name": "Üsküdar Mekan 52",
+    "description": "Kahvaltı ortam, sessiz mevcut.",
+    "rating": 4.0,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "deniz kenarı",
+      "klasik",
+      "rahat"
+    ],
+    "latitude": 41.078347,
+    "longitude": 29.082605
+  },
+  {
+    "name": "Şişli Mekan 53",
+    "description": "Güzel müzik ortam, rahat mevcut.",
+    "rating": 4.4,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "manzara",
+      "sessiz",
+      "gizli"
+    ],
+    "latitude": 40.996083,
+    "longitude": 28.954632
+  },
+  {
+    "name": "Kadıköy Mekan 54",
+    "description": "Rahat ortam, kahvaltı mevcut.",
+    "rating": 4.8,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "tercih edilen",
+      "gölge",
+      "sessiz"
+    ],
+    "latitude": 40.914883,
+    "longitude": 29.027486
+  },
+  {
+    "name": "Beyoğlu Mekan 55",
+    "description": "Wifi ortam, tercih edilen mevcut.",
+    "rating": 4.7,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "tatlı",
+      "popüler",
+      "tercih edilen"
+    ],
+    "latitude": 41.093133,
+    "longitude": 28.915809
+  },
+  {
+    "name": "Fatih Mekan 56",
+    "description": "Tercih edilen ortam, güzel müzik mevcut.",
+    "rating": 4.8,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "kahve",
+      "popüler",
+      "tarihi"
+    ],
+    "latitude": 40.995923,
+    "longitude": 28.97818
+  },
+  {
+    "name": "Fatih Mekan 57",
+    "description": "Sessiz ortam, tercih edilen mevcut.",
+    "rating": 4.5,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "sigara alanı",
+      "gizli",
+      "tarihi"
+    ],
+    "latitude": 41.030304,
+    "longitude": 28.992131
+  },
+  {
+    "name": "Kadıköy Mekan 58",
+    "description": "Klasik ortam, tatlı mevcut.",
+    "rating": 4.7,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "wifi",
+      "güzel müzik",
+      "sigara alanı"
+    ],
+    "latitude": 40.974249,
+    "longitude": 28.933824
+  },
+  {
+    "name": "Sarıyer Mekan 59",
+    "description": "Güzel müzik ortam, tarihi mevcut.",
+    "rating": 3.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "tatlı",
+      "tercih edilen",
+      "tarihi"
+    ],
+    "latitude": 40.961235,
+    "longitude": 29.091345
+  },
+  {
+    "name": "Şişli Mekan 60",
+    "description": "Güzel müzik ortam, sigara alanı mevcut.",
+    "rating": 4.0,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "gölge",
+      "modern",
+      "klasik"
+    ],
+    "latitude": 41.05564,
+    "longitude": 29.09665
+  },
+  {
+    "name": "Sarıyer Mekan 61",
+    "description": "Gölge ortam, tercih edilen mevcut.",
+    "rating": 4.2,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "uygun fiyat",
+      "klasik",
+      "sigara alanı"
+    ],
+    "latitude": 40.940278,
+    "longitude": 29.035074
+  },
+  {
+    "name": "Bakırköy Mekan 62",
+    "description": "Rahat ortam, sessiz mevcut.",
+    "rating": 3.8,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "uygun fiyat",
+      "modern",
+      "gölge"
+    ],
+    "latitude": 41.04575,
+    "longitude": 28.936049
+  },
+  {
+    "name": "Sarıyer Mekan 63",
+    "description": "Tarihi ortam, sigara alanı mevcut.",
+    "rating": 4.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "rahat",
+      "wifi",
+      "manzara"
+    ],
+    "latitude": 40.948568,
+    "longitude": 29.001256
+  },
+  {
+    "name": "Beyoğlu Mekan 64",
+    "description": "Gölge ortam, manzara mevcut.",
+    "rating": 3.5,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "deniz kenarı",
+      "tarihi",
+      "kahve"
+    ],
+    "latitude": 41.066857,
+    "longitude": 29.039037
+  },
+  {
+    "name": "Fatih Mekan 65",
+    "description": "Modern ortam, tarihi mevcut.",
+    "rating": 5.0,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "tercih edilen",
+      "gölge",
+      "manzara"
+    ],
+    "latitude": 41.07791,
+    "longitude": 29.036945
+  },
+  {
+    "name": "Sarıyer Mekan 66",
+    "description": "Gizli ortam, tarihi mevcut.",
+    "rating": 4.9,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "sigara alanı",
+      "gizli",
+      "güzel müzik"
+    ],
+    "latitude": 40.90211,
+    "longitude": 28.909134
+  },
+  {
+    "name": "Fatih Mekan 67",
+    "description": "Kahve ortam, kahve mevcut.",
+    "rating": 4.9,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "uygun fiyat",
+      "güzel müzik",
+      "gizli"
+    ],
+    "latitude": 41.021928,
+    "longitude": 28.992492
+  },
+  {
+    "name": "Bakırköy Mekan 68",
+    "description": "Güzel müzik ortam, sigara alanı mevcut.",
+    "rating": 4.6,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "rahat",
+      "kahvaltı",
+      "sigara alanı"
+    ],
+    "latitude": 41.08301,
+    "longitude": 28.915037
+  },
+  {
+    "name": "Şişli Mekan 69",
+    "description": "Güzel müzik ortam, tarihi mevcut.",
+    "rating": 4.6,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "rahat",
+      "deniz kenarı",
+      "tatlı"
+    ],
+    "latitude": 41.051718,
+    "longitude": 28.907163
+  },
+  {
+    "name": "Fatih Mekan 70",
+    "description": "Gölge ortam, sessiz mevcut.",
+    "rating": 3.9,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "tatlı",
+      "tarihi",
+      "gizli"
+    ],
+    "latitude": 41.081684,
+    "longitude": 29.082244
+  },
+  {
+    "name": "Üsküdar Mekan 71",
+    "description": "Uygun fiyat ortam, kahve mevcut.",
+    "rating": 4.4,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "güzel müzik",
+      "klasik",
+      "kahvaltı"
+    ],
+    "latitude": 40.986803,
+    "longitude": 28.939192
+  },
+  {
+    "name": "Beşiktaş Mekan 72",
+    "description": "Tatlı ortam, tarihi mevcut.",
+    "rating": 4.8,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "keywords": [
+      "uygun fiyat",
+      "sessiz",
+      "sigara alanı"
+    ],
+    "latitude": 41.015724,
+    "longitude": 29.03172
+  },
+  {
+    "name": "Fatih Mekan 73",
+    "description": "Gölge ortam, popüler mevcut.",
+    "rating": 4.1,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "wifi",
+      "sigara alanı",
+      "tarihi"
+    ],
+    "latitude": 41.084946,
+    "longitude": 29.037257
+  },
+  {
+    "name": "Beyoğlu Mekan 74",
+    "description": "Tatlı ortam, sigara alanı mevcut.",
+    "rating": 3.8,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "rahat",
+      "modern",
+      "deniz kenarı"
+    ],
+    "latitude": 40.915755,
+    "longitude": 28.925507
+  },
+  {
+    "name": "Kadıköy Mekan 75",
+    "description": "Kahvaltı ortam, güzel müzik mevcut.",
+    "rating": 4.6,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "kahvaltı",
+      "manzara",
+      "rahat"
+    ],
+    "latitude": 41.010451,
+    "longitude": 29.041837
+  },
+  {
+    "name": "Fatih Mekan 76",
+    "description": "Tarihi ortam, tarihi mevcut.",
+    "rating": 4.8,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "tarihi",
+      "kahve",
+      "tercih edilen"
+    ],
+    "latitude": 41.085454,
+    "longitude": 28.901553
+  },
+  {
+    "name": "Kadıköy Mekan 77",
+    "description": "Kahve ortam, klasik mevcut.",
+    "rating": 4.8,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "klasik",
+      "sessiz",
+      "wifi"
+    ],
+    "latitude": 41.07434,
+    "longitude": 28.956362
+  },
+  {
+    "name": "Fatih Mekan 78",
+    "description": "Modern ortam, tatlı mevcut.",
+    "rating": 3.9,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "kahvaltı",
+      "klasik",
+      "wifi"
+    ],
+    "latitude": 40.912345,
+    "longitude": 29.092532
+  },
+  {
+    "name": "Şişli Mekan 79",
+    "description": "Klasik ortam, klasik mevcut.",
+    "rating": 3.9,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "tarihi",
+      "deniz kenarı",
+      "kahve"
+    ],
+    "latitude": 41.095725,
+    "longitude": 28.943874
+  },
+  {
+    "name": "Şişli Mekan 80",
+    "description": "Wifi ortam, manzara mevcut.",
+    "rating": 4.2,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "rahat",
+      "tercih edilen",
+      "wifi"
+    ],
+    "latitude": 40.994823,
+    "longitude": 28.959803
+  },
+  {
+    "name": "Fatih Mekan 81",
+    "description": "Tercih edilen ortam, sigara alanı mevcut.",
+    "rating": 4.1,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "kahve",
+      "gizli",
+      "klasik"
+    ],
+    "latitude": 41.08859,
+    "longitude": 29.065523
+  },
+  {
+    "name": "Şişli Mekan 82",
+    "description": "Sigara alanı ortam, rahat mevcut.",
+    "rating": 4.1,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "sessiz",
+      "kahve",
+      "popüler"
+    ],
+    "latitude": 40.909125,
+    "longitude": 29.026474
+  },
+  {
+    "name": "Üsküdar Mekan 83",
+    "description": "Uygun fiyat ortam, gizli mevcut.",
+    "rating": 4.8,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "popüler",
+      "gölge",
+      "kahvaltı"
+    ],
+    "latitude": 40.996541,
+    "longitude": 29.056523
+  },
+  {
+    "name": "Sarıyer Mekan 84",
+    "description": "Popüler ortam, sigara alanı mevcut.",
+    "rating": 4.8,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "İstanbul",
+    "keywords": [
+      "deniz kenarı",
+      "manzara",
+      "sigara alanı"
+    ],
+    "latitude": 41.079147,
+    "longitude": 29.00599
+  },
+  {
+    "name": "Fatih Mekan 85",
+    "description": "Kahve ortam, deniz kenarı mevcut.",
+    "rating": 4.4,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "rahat",
+      "sessiz",
+      "gizli"
+    ],
+    "latitude": 41.058996,
+    "longitude": 29.046207
+  },
+  {
+    "name": "Bakırköy Mekan 86",
+    "description": "Modern ortam, gizli mevcut.",
+    "rating": 4.8,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "gölge",
+      "gizli",
+      "sigara alanı"
+    ],
+    "latitude": 40.998089,
+    "longitude": 29.014379
+  },
+  {
+    "name": "Sarıyer Mekan 87",
+    "description": "Sessiz ortam, popüler mevcut.",
+    "rating": 4.3,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "tercih edilen",
+      "gizli",
+      "modern"
+    ],
+    "latitude": 40.900255,
+    "longitude": 28.972028
+  },
+  {
+    "name": "Bakırköy Mekan 88",
+    "description": "Klasik ortam, uygun fiyat mevcut.",
+    "rating": 4.8,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "tercih edilen",
+      "wifi",
+      "uygun fiyat"
+    ],
+    "latitude": 41.097563,
+    "longitude": 28.960087
+  },
+  {
+    "name": "Beşiktaş Mekan 89",
+    "description": "Tatlı ortam, manzara mevcut.",
+    "rating": 3.5,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "popüler",
+      "güzel müzik",
+      "modern"
+    ],
+    "latitude": 41.050883,
+    "longitude": 28.978346
+  },
+  {
+    "name": "Kadıköy Mekan 90",
+    "description": "Kahve ortam, deniz kenarı mevcut.",
+    "rating": 4.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "tarihi",
+      "wifi",
+      "gizli"
+    ],
+    "latitude": 40.909741,
+    "longitude": 28.950712
+  },
+  {
+    "name": "Beşiktaş Mekan 91",
+    "description": "Sessiz ortam, deniz kenarı mevcut.",
+    "rating": 3.7,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "tarihi",
+      "popüler",
+      "tatlı"
+    ],
+    "latitude": 41.070817,
+    "longitude": 29.046073
+  },
+  {
+    "name": "Sarıyer Mekan 92",
+    "description": "Uygun fiyat ortam, tatlı mevcut.",
+    "rating": 4.8,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "gizli",
+      "popüler",
+      "tarihi"
+    ],
+    "latitude": 41.014012,
+    "longitude": 28.949772
+  },
+  {
+    "name": "Sarıyer Mekan 93",
+    "description": "Tatlı ortam, gizli mevcut.",
+    "rating": 3.6,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Şişli",
+    "keywords": [
+      "manzara",
+      "kahvaltı",
+      "wifi"
+    ],
+    "latitude": 40.98991,
+    "longitude": 29.021283
+  },
+  {
+    "name": "Üsküdar Mekan 94",
+    "description": "Klasik ortam, kahvaltı mevcut.",
+    "rating": 4.8,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Beşiktaş",
+    "keywords": [
+      "tatlı",
+      "sigara alanı",
+      "modern"
+    ],
+    "latitude": 40.909141,
+    "longitude": 28.99427
+  },
+  {
+    "name": "Şişli Mekan 95",
+    "description": "Sigara alanı ortam, uygun fiyat mevcut.",
+    "rating": 3.7,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Bakırköy",
+    "keywords": [
+      "popüler",
+      "modern",
+      "rahat"
+    ],
+    "latitude": 40.934633,
+    "longitude": 28.996103
+  },
+  {
+    "name": "Beşiktaş Mekan 96",
+    "description": "Kahvaltı ortam, tercih edilen mevcut.",
+    "rating": 3.9,
+    "category": "Other",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "tercih edilen",
+      "kahve",
+      "manzara"
+    ],
+    "latitude": 40.915815,
+    "longitude": 29.01055
+  },
+  {
+    "name": "Şişli Mekan 97",
+    "description": "Kahve ortam, wifi mevcut.",
+    "rating": 4.3,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Beyoğlu",
+    "keywords": [
+      "kahve",
+      "uygun fiyat",
+      "tercih edilen"
+    ],
+    "latitude": 40.968464,
+    "longitude": 29.072979
+  },
+  {
+    "name": "Fatih Mekan 98",
+    "description": "Sigara alanı ortam, klasik mevcut.",
+    "rating": 5.0,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Sarıyer",
+    "keywords": [
+      "uygun fiyat",
+      "modern",
+      "sigara alanı"
+    ],
+    "latitude": 41.006371,
+    "longitude": 28.9982
+  },
+  {
+    "name": "Üsküdar Mekan 99",
+    "description": "Sessiz ortam, deniz kenarı mevcut.",
+    "rating": 4.7,
+    "category": "Cafe",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "uygun fiyat",
+      "tercih edilen",
+      "deniz kenarı"
+    ],
+    "latitude": 41.081638,
+    "longitude": 28.918924
+  },
+  {
+    "name": "Sarıyer Mekan 100",
+    "description": "Deniz kenarı ortam, sessiz mevcut.",
+    "rating": 4.4,
+    "category": "Historical Site",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "keywords": [
+      "kahvaltı",
+      "popüler",
+      "klasik"
+    ],
+    "latitude": 40.994149,
+    "longitude": 28.929644
+  },
+  {
+    "name": "Üsküdar Mekan 101",
+    "description": "Deniz kenarı ortam, sessiz mevcut.",
+    "rating": 4.0,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "akşam yemeği",
+      "popüler",
+      "klasik"
+    ],
+    "latitude": 41.025445820297165,
+    "longitude": 29.016192436930996
+
+  },
+  {
+    "name": "Üsküdar Mekan 102",
+    "description": "Deniz kenarı ortam, sessiz mevcut.",
+    "rating": 4.6,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "akşam yemeği",
+      "popüler",
+      "klasik"
+    ],
+    "latitude": 41.02417504557723,
+    "longitude": 41.02417504557723
+
+  },
+  {
+    "name": "Üsküdar Mekan 103",
+    "description": "Deniz kenarı ortam, sessiz mevcut.",
+    "rating": 3.9,
+    "category": "Restaurant",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "keywords": [
+      "akşam yemeği",
+      "popüler",
+      "klasik"
+    ],
+    "latitude": 41.02566435870939,
+    "longitude": 41.02566435870939
+
+  }
+
+
+
+]

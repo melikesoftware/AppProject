@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637895792486",
+    "project_id": "enter-a55fb",
+    "storage_bucket": "enter-a55fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637895792486:android:795bfd8005eff520b71aa7",
+        "android_client_info": {
+          "package_name": "com.example.projecthomework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qkOvJHUoReY2rXWY_1Uzxwu-4qRzv9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
